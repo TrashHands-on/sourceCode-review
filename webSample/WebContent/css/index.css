@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+.login_field {
+    width: 400px;
+    text-align: center;
+    padding: 8px;
+    color: #ffffff;
+    background-color: #aaaaff;
+}
+
+.login_name{
+	display:inline;
+	color: #00FF00;
+}
+
+.main_field {
+    width: 800px;
+    text-align: center;
+    padding: 8px;
+    color: #ffffff;
+    background-color: #ADD8E6;
